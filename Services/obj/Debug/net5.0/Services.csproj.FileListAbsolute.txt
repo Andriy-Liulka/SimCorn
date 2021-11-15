@@ -1,0 +1,15 @@
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\bin\Debug\net5.0\Services.deps.json
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\bin\Debug\net5.0\Services.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\bin\Debug\net5.0\ref\Services.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\bin\Debug\net5.0\Services.pdb
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\ref\Services.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.pdb
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\bin\Debug\net5.0\DomainModel.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\bin\Debug\net5.0\DomainModel.pdb
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Services\obj\Debug\net5.0\Services.csproj.CopyComplete

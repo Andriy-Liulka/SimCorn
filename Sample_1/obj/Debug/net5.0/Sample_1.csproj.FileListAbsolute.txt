@@ -1,0 +1,16 @@
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\Sample_1.exe
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\Sample_1.deps.json
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\Sample_1.runtimeconfig.json
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\Sample_1.runtimeconfig.dev.json
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\Sample_1.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\ref\Sample_1.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\bin\Debug\net5.0\Sample_1.pdb
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.csproj.AssemblyReference.cache
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.AssemblyInfoInputs.cache
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.AssemblyInfo.cs
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.csproj.CoreCompileInputs.cache
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\ref\Sample_1.dll
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.pdb
+D:\IT Step Academy\SimCorn\SimCornChampionShip\Sample_1\obj\Debug\net5.0\Sample_1.genruntimeconfig.cache
